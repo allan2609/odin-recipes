@@ -1,0 +1,33 @@
+body {
+	background-color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	color:white;
+}
+
+.link-list {
+ 	list-style: none;
+}
+
+ul li {
+	margin: 5px;
+}
+
+a {
+	color:yellow;
+	text-transform: uppercase;
+}
+
+.main-photo {
+	height: auto;
+	width: 400px;
+}
+
+.recipe-body {
+	color: cyan;
+}
+
+.recipe-body .ingredients
+.recipe-body.steps {
+	background-color: beige;
+	color: black;
+}
